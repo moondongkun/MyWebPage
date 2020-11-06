@@ -1,0 +1,25 @@
+h1{
+    background-color: rgb(231, 172, 105);
+    margin-right: 1330px;
+}
+
+title{
+    background-color: blue;
+}
+
+body{
+    background-image: url(https://t1.daumcdn.net/cfile/tistory/23638B4552AA675A19);
+    background-repeat: no-repeat;
+}
+
+a{
+    color: teal;
+}
+
+a:hover{
+    background-color: darkred;
+}
+
+#index1, #index2, #index3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
